@@ -1171,6 +1171,7 @@ DISSECTOR_SRC = \
 	packet-sita.c		\
 	packet-skinny.c		\
 	packet-skype.c		\
+	packet-skylink.c		\
 	packet-slimp3.c		\
 	packet-sll.c		\
 	packet-slowprotocols.c	\

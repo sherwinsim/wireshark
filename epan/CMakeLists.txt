@@ -1258,6 +1258,7 @@ set(DISSECTOR_SRC
 	dissectors/packet-sita.c
 	dissectors/packet-skinny.c
 	dissectors/packet-skype.c
+	dissectors/packet-skylink.c
 	dissectors/packet-slimp3.c
 	dissectors/packet-sll.c
 	dissectors/packet-slowprotocols.c
