@@ -10,9 +10,8 @@
 #include <epan/packet.h>
 #include <epan/expert.h>
 #include <epan/prefs.h>
-
-#include "packet-http.h"
-#include "packet-tcp.h"
+#include <epan/dissectors/packet-http.h>
+#include <epan/dissectors/packet-tcp.h>
 
 void proto_register_skylink(void);
 void proto_reg_handoff_skylink(void);
