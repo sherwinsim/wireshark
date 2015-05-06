@@ -3270,6 +3270,7 @@ AC_OUTPUT(
   plugins/mate/Makefile
   plugins/opcua/Makefile
   plugins/profinet/Makefile
+  plugins/skylink/Makefile
   plugins/stats_tree/Makefile
   plugins/unistim/Makefile
   plugins/wimax/Makefile

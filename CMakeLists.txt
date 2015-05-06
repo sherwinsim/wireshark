@@ -972,6 +972,7 @@ if(ENABLE_PLUGINS)
 		plugins/mate
 		plugins/opcua
 		plugins/profinet
+		plugins/skylink
 		plugins/stats_tree
 		plugins/unistim
 		plugins/wimax
